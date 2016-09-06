@@ -29,6 +29,8 @@
         android:id="@+id/pirateImageView"
         android:src="@drawable/occpirate"
         android:layout_gravity="center"
+        android:contentDescription="@string/content_description"
+        android:focusable="true"
         android:layout_weight="2" />
 
     <Button

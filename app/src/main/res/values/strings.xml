@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Yarr World</string>
-    <string name="button_text">SHIVER ME TIMERS</string>
-    <string name="toast_text">SHIVER ME TIMERS!</string>
+    <string name="button_text">SHIVER ME TIMBERS</string>
+    <string name="toast_text">SHIVER ME TIMBERS!</string>
     <string name="welcome_text">Welcome to CS 273 - Mobile Application Development</string>
+    <string name="content_description">Orange Coast College pirate logo</string>
 </resources>
