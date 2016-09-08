@@ -34,13 +34,5 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(context, R.string.toast_text, Toast.LENGTH_LONG).show();
             }
         });
-
-        speakButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-            }
-        });
-
     }
 }
